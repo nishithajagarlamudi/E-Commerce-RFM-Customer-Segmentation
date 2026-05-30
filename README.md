@@ -47,6 +47,6 @@ rfm_segmentation.sql — contains all steps in one file:
 ## Results
 
 ![Segment Summary](Segment_summary.png)
-![Revenue by Segment](Revenue by segment.png)
+![Revenue by Segment](Revenue_by_segment.png)
 ![Top 10 At Risk](Top_10_Risk.png)
-![Marketing Action Plan](Marketing action plan.png)
+![Marketing Action Plan](Marketing_action_plan.png)
