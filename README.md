@@ -43,3 +43,10 @@ rfm_segmentation.sql — contains all steps in one file:
 4. Run: SET GLOBAL local_infile = 1
 5. Update the file path in LOAD DATA lines to your folder location
 6. Run rfm_segmentation.sql from top to bottom
+
+## Results
+
+![Segment Summary](Segment_summary.png)
+![Revenue by Segment](Revenue%20by%20segment.png)
+![Top 10 At Risk](Top_10_Risk.png)
+![Marketing Action Plan](Marketing%20action%20plan.png)
