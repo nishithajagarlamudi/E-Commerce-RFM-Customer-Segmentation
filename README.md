@@ -50,5 +50,4 @@ rfm_segmentation.sql — contains all steps in one file:
 ![Revenue by Segment](Revenue_by_segment.png)
 ![Top 10 At Risk](Top_10_Risk.png)
 ![Marketing Action Plan](Marketing_action_plan.png)
-
-<!-- Day 2 - maintaining streak -->
+Day 2 - maintaining streak --
